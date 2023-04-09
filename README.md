@@ -12,7 +12,7 @@ A.  Aktifasi backend
 
 B. Aktifasi frontend
 1. pastikan telah terinstall Node JS di komputer/laptop kalian
-2. buka IDE dan buka folder utama dan arahkan pada folder backend dengan cara cd backend
+2. buka IDE dan buka folder utama dan arahkan pada folder frontend dengan cara cd frontend
 3. gunakan dependensi dengan cara instalasi menggunakan npm install
 4. setelah semua telah selesai dengan adanya indikasi folder baru yaitu node_modules, maka bisa di lanjut pada step terakhir
 5. npm start
